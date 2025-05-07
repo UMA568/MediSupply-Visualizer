@@ -54,9 +54,14 @@ Performance indicators
 Analyzed trends and bottlenecks via visualizations and statistical insights.
 
 ## 5. 📊 Dashboard Screenshots
-<div><img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(18).png" width=250>
-<img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(18).png" width=250>
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+  <img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(18).png?raw=true" width="250"/>
+  <img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(19).png?raw=true" width="250"/>
+  <img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(20).png" width="250"/>
+  <img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(21).png?raw=true" width="250"/>
+  <img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(22).png?raw=true" width="250"/>
+</div>
 
 
 
@@ -76,11 +81,12 @@ Enhanced partner accountability via KPIs ✅
 
 ## 📂 Project Files
 
-📝 SQL Merge Script – View Here
+ <a href="https://github.com/UMA568/MediSupply-Visualizer/blob/main/SQL_Flat_File.sql" target="_blank">📝 Click Here To View SQL Merge Script</a>
 
-🐍 Python Feature Engineering (Colab) – View Script
+<a href="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Delivery_Case_Study.ipynb" target="_blank">📝 Click Here To View 🐍 Python Feature Engineering (Colab)</a>
 
-📎 Power BI Dashboard – Download PBIX
+<a href="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Pharmacy_Dashboard_Report.pbix" target="_blank">📝 Click Here To View📎 Power BI Dashboard</a>
+
 
 
 
