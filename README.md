@@ -53,19 +53,14 @@ Performance indicators
 
 Analyzed trends and bottlenecks via visualizations and statistical insights.
 
-### 5. 📊 Dashboard Development
-
-Built an interactive dashboard in Power BI, highlighting:
-
-City-wise order volumes
-
-Stage-wise delays & TAT
-
-Store and delivery partner performance
+## 5. 📊 Dashboard Screenshots
+<div><img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(18).png" width=250>
+<img src="https://github.com/UMA568/MediSupply-Visualizer/blob/main/Screenshot%20(18).png" width=250>
 
 
 
----
+
+
 
 ## 🏁 Outcome & Insights
 
